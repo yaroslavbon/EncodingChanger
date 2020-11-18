@@ -1,0 +1,2 @@
+# How to
+In order to use the application clone this repo and import as a maven project to your favourite Java IDE. After that you can run apps by calling corresponding `main` method on class that you want to use. 
